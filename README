@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=947
+
+This script is based on the script 2html.vim. It transforms a file into a TEX file using current highlighting, using the "color" latex package.
+Sorry, the code is really bad, and this project is not maintained anymore.
